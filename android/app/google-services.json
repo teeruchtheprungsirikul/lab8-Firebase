@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "979979860673",
+    "project_id": "lab8firebase-3ae89",
+    "storage_bucket": "lab8firebase-3ae89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979979860673:android:16b5888e2c878c2910b240",
+        "android_client_info": {
+          "package_name": "com.example.my_nextflow_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979979860673-0dekj2qi11stmf78oq1h614kiuf8sre7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7lfCldw3tVpVdqNVWfQ-BCHcsKAJwKJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979979860673-0dekj2qi11stmf78oq1h614kiuf8sre7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979979860673-nhiteoevuk8cuocnb59ufe4llt0gssp1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lab8FlutterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
